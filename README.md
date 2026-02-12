@@ -9,7 +9,7 @@ Tic-Tac-Toe Game in C++ Language
 * [Game Rules](#game-rules)
 * [Features](#features)
 * [Technical Architecture](#technical-architeture)
-* [External Resources](#external resources)
+* [External Resources](#external-resources)
   
   
 ---
@@ -65,7 +65,7 @@ The project is built on an interconnected OOP architecture:
 * **Memory Management:** Utilizes dynamic memory allocation for the ranking system.
 * **Integrity:** This project was developed without the use of third-party source code or AI-generated logic, based on independent research of implementation algorithms.
  
-## External Resources
+### External Resources
 * [GeeksforGeeks - Tic-Tac-Toe Implementation](https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-game/) 
 * [Guru99 - C++ File Handling](https://www.guru99.com/pt/cpp-file-read-write-open.html) 
 
